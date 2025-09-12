@@ -147,7 +147,7 @@ const Contact: React.FC = () => {
               ))}
 
               <motion.a
-                href="/assets/resume.pdf"
+                href="/resume.pdf"
                 download
                 className="flex items-center justify-center gap-2 py-3 px-4 border-2 border-teal-400 text-teal-600 dark:text-teal-400 font-semibold rounded-lg hover:bg-teal-400 hover:text-white transition"
                 whileHover={{ scale: 1.02 }}
