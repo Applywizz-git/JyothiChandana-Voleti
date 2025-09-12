@@ -19,7 +19,7 @@ const PROJECTS: Project[] = [
   },
   {
     title: "Time-Series Forecasting & Analysis",
-    image: "/time-series.jpg", // put this image in /public
+    image: "/time-series.png", // put this image in /public
     points: [
       "Implemented ARIMA, Prophet & LSTM for high-accuracy stock trend prediction.",
       "Preprocessed & visualized data with Pandas, NumPy, Matplotlib, Seaborn.",
