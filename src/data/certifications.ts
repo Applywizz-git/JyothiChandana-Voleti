@@ -4,12 +4,12 @@ export const certifications: Certification[] = [
   {
     name: 'Google Certified: Professional Data Engineer',
     issuer: 'Google Cloud',
-    date: '2024'
+    date: '2025-2027'
   },
   {
     name: 'Microsoft Certified: Azure Data Fundamentals',
     issuer: 'Microsoft',
-    date: '2024'
+    date: '2022'
     
   },
   {
